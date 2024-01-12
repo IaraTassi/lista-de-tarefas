@@ -2,7 +2,7 @@
     Projeto Lista de Tarefas
 </h1>
 
-Repositório desenvolvido para fins didáticos, desenvolvido no curso Front-end em React aula 22 com professor Wallison Silva da [Ada Tech](https://ada.tech/).
+Repositório desenvolvido para fins didáticos, desenvolvido no curso Front-end em React aula 22 com professor Walisson Silva da [Ada Tech](https://ada.tech/).
 
 ## Objetivo
 
